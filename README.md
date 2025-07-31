@@ -17,4 +17,4 @@ This project showcases a multi-source Power BI dashboard built from public LNG m
 - –Raw Excel data ---
 - Dashboard Screenshots (Pg1, Pg2, Pg3)
 ## 🔗 Demo Preview _A static PDF version is attached here for preview. Power BI file allows full interactivity._ ---
-## 📩 Contact Created by Fiston Banza. For questions or walkthroughs, feel free to reach out!
+## 📩 Created by Fiston Banza. For questions or walkthroughs, feel free to reach out!
